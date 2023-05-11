@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>972308942446-j2j7vms386ftp8cd3064gujif3hjuigu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.972308942446-j2j7vms386ftp8cd3064gujif3hjuigu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>972308942446-la3cu5fstq9b1p0v2o3foimerpj2sn1e.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDToeXOpcmpb6iHdkfJTgq8fefOQA4PvZI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>972308942446</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fluttervitualdoctor</string>
+	<key>PROJECT_ID</key>
+	<string>akdn-virtualdoc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>akdn-virtualdoc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:972308942446:ios:c32b1843451134b311a07f</string>
+	<key>DATABASE_URL</key>
+	<string>https://akdn-virtualdoc.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "972308942446",
+    "firebase_url": "https://akdn-virtualdoc.firebaseio.com",
+    "project_id": "akdn-virtualdoc",
+    "storage_bucket": "akdn-virtualdoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:04fef1c1ac5ecd8511a07f",
+        "android_client_info": {
+          "package_name": "com.akdn.virtualdoc.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-9cuod8q58b61sck3bkg90pj4kerjpomb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akdn.virtualdoc.doctor",
+            "certificate_hash": "0a8265795ce658552635a9ed0aa6135dd32c54e8"
+          }
+        },
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:7dc886a225624bed11a07f",
+        "android_client_info": {
+          "package_name": "com.akdn.virtualdoc.doctorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-cap52ktshdfc1oo2fbf73u9bo1rcqv93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akdn.virtualdoc.doctorp",
+            "certificate_hash": "0a8265795ce658552635a9ed0aa6135dd32c54e8"
+          }
+        },
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:91bffeb9d82fc97d11a07f",
+        "android_client_info": {
+          "package_name": "com.akdn.virtualdoc.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-tg2jvttidm7jfq3gf5kj9297tj14u633.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akdn.virtualdoc.patient",
+            "certificate_hash": "0a8265795ce658552635a9ed0aa6135dd32c54e8"
+          }
+        },
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:2cb2f4d62816d5f911a07f",
+        "android_client_info": {
+          "package_name": "com.akdndhrc.firestoreuploadingimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:cbf108be2992d98311a07f",
+        "android_client_info": {
+          "package_name": "com.example.fluttervitualdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-la3cu5fstq9b1p0v2o3foimerpj2sn1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluttervitualdoctor",
+            "certificate_hash": "ea9175e2079cd17449f7d1dbf874333aa7b1f400"
+          }
+        },
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:a12a4a9dfd10894e11a07f",
+        "android_client_info": {
+          "package_name": "com.virtualdoc.laboratory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:831ed7d0efdf760b11a07f",
+        "android_client_info": {
+          "package_name": "com.virtualdoc.pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972308942446:android:c9828bb38e0949fd11a07f",
+        "android_client_info": {
+          "package_name": "com.virtualdoc.pharmadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHO_NSULWCnfSJZnscfwN3JMY6zzIsAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972308942446-3440a642fvk4dad6ubkc1tjb0m61duvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
